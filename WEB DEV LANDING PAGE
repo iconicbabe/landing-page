@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LANDING PAGE ASSIGNMENT</title>
+</head>
+<body>
+    <!--Navigation Bar - contains links to other pages of the website-->
+    <nav>
+<a>Logo</a> <img src="busbooking.png" alt="LOGO PICTURE HERE"><a href="#C4"><h2 id="C4"><a href="">Bookmark This Page</a><br></h2></a>
+<a href="">Home</a>
+<a href="">Login</a>
+<a href="">Search for Bus</a>
+<a href="">View Seat</a>                      
+<a href="">Book Now</a>
+<a href="">Proceed to Pay</a><br>
+<strong><i>User Welcome Message with Sliding Text/Graphics</i></strong>
+<!--To show hyperlinks-->
+    </nav>
+    <!--Jumbotron/Hello Section-->
+    <header>
+        <h1>Bibo Travellers Company Landing Page<br>
+        <h2>Web Development 1 Assignment - DIT-01-1000/2018 -- SAMWEL MEREMO NYANGI<br></h2>
+        <h1><p><b>-THE INTERACTIVE WEBSITE'S CONTENT APPEARS HERE AFTER CLICKING A TAB-</b></p></h1>
+        <p><h2>Kindly click any tab or link and view the next interface thereafter.</h2></p>
+        <p><h3>Enjoy using our bus booking system</h3></p>
+        <p><h4>!Finally, kindly wait for the real bus booking system.<br>You can rely on bibotravellers.co.ke for all your locomotion</h4></p>
+    </header>
+    <!--Main Section-->
+    <main>
+        <img src="busbooking.png" alt="Bus and Office Picture Here">
+    </main>
+    <!--Footer Section-->
+    <a href="">News and Announcements</a><br>
+    <a href="">Refer Customer</a><br>
+    <a href="">Contacts/Report Issue</a><br>
+    <a href="">Register For Loyalty</a><br>
+    <a href="">Logout</a> <br>
+    <strong>Thank You For Choosing Us</strong>
+    <a href="https://www.bibotravellers.co.ke/termsandconditions">Terms and Conditions</a>
+</body>
+</html>
